@@ -1,0 +1,7 @@
+{
+  "name": "com.metrological.app.Extended",
+  "description": "Extended",
+  "dependencies": {
+    "wpe-lightning-sdk": "WebPlatformForEmbedded/Lightning-SDK"
+  }
+}
